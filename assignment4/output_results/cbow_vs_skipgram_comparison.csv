@@ -1,0 +1,7 @@
+ngram,model,avg_top5_similarity
+unigram,CBOW,0.3958313047885894
+unigram,SkipGram,0.5741654133796692
+bigram,CBOW,0.0
+bigram,SkipGram,0.0
+trigram,CBOW,0.0
+trigram,SkipGram,0.0

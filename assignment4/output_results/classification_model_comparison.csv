@@ -1,0 +1,7 @@
+ngram,model,accuracy,precision,recall,f1
+unigram,NaiveBayes,1.0,1.0,1.0,1.0
+unigram,LogisticRegression,1.0,1.0,1.0,1.0
+bigram,NaiveBayes,1.0,1.0,1.0,1.0
+bigram,LogisticRegression,1.0,1.0,1.0,1.0
+trigram,NaiveBayes,1.0,1.0,1.0,1.0
+trigram,LogisticRegression,1.0,1.0,1.0,1.0
